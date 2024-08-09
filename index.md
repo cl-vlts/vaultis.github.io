@@ -16,7 +16,7 @@ sections:
     url: '#page-top'
     services:
       - title: Risk Assessments
-        text: Red-team exercises that explore malign use of AI and identify operationally plausible threat vectors
+        text: Red-team exercises that assess AI misuse and identify operationally plausible threat vectors
         icon: bi-binoculars
       - title: Bespoke Consultations
         text: Rigorous assessment methodologies that accurately characterize the risk environment
