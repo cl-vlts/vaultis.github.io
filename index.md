@@ -14,7 +14,6 @@ sections:
     #background_style: bg-info
     title: SERVICES
     url: '#page-top'
-    text: Vaultis delivers rigorous analyses with a pragmatic emphasis on operational risks, focusing on the potential for real-world harm to enable safe AI development. Our balanced approach avoids costly misjudgments, identifies actual hazards, and provides developers with strategic insights for responsible deployment.
     services:
       - title: Risk Assessments
         text: Red-team exercises that explore malign use of AI and identify operationally plausible threat vectors
