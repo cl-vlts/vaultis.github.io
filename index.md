@@ -22,7 +22,7 @@ sections:
         text: Rigorous assessment methodologies that accurately characterize the risk environment
         icon: bi-zoom-in
       - title: Direct Support
-        text: Customized guidance for strategic decision-making amidst the prevailing academic and policy discourse
+        text: Customized guidance for strategic decision-making in the prevailing academic and policy discourse
         icon: bi-journal-text
 
   - type: contact.html
