@@ -3,7 +3,7 @@ layout: home
 header:
   title: ANTICIPATING RISK, SAFEGUARDING INNOVATION
   text: >
-    Vaultis conducts operational risk assessments that evaluate the real-world impacts of emerging artifical intelligence capabilities. Led by renowned experts, our research is grounded in rigorous, objective scientific methods and enables safe AI development.
+    Vaultis conducts operational risk assessments that evaluate the real-world impacts of emerging artifical intelligence capabilities. Led by renowned experts, our research is grounded in rigorous scientific methods and enables safe AI development.
   action: # action button is optional
     label: LEARN MORE
     url: '#services'
