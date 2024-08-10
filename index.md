@@ -17,7 +17,7 @@ sections:
       - title: Risk Assessments
         text: Red-team exercises that assess AI misuse and identify operationally plausible threat vectors
         icon: bi-binoculars
-      - title: Bespoke Consultations
+      - title: Bespoke Consulting
         text: Rigorous assessment methodologies that accurately characterize the risk environment
         icon: bi-zoom-in
       - title: Direct Support
