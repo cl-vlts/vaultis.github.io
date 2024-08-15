@@ -4,8 +4,8 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: About
-  url: /#page-top
+  url: https://vaultis.ai/#page-top
 - title: Services
-  url: /#services
+  url: https://vaultis.ai/#services
 - title: Contact
-  url: /#contacts
+  url: https://vaultis.ai/#contacts
